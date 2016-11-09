@@ -146,7 +146,6 @@ const border = {
 
 const styles = StyleSheet.create({
   container: {
-    zIndex: 1
   },
   inputContainer: {
     ...border
